@@ -1,0 +1,9 @@
+com\inetbanking\testcases\BaseClass.class
+com\inetbanking\testcases\TC_Logintest.class
+com\inetbanking\pageobject\LoginPageObjects.class
+com\inetbanking\pageobject\NewUserPage.class
+com\inetbanking\utilities\Xmlutility.class
+com\inetbanking\testcases\LoginTC_002.class
+com\inetbanking\utilities\Reporting.class
+com\inetbanking\testcases\TC_003_NewAccount.class
+com\inetbanking\utilities\Readconfig.class
